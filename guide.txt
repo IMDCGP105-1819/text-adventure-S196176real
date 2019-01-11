@@ -1,0 +1,16 @@
+head west
+head south into the forest
+search person to find out where to go next
+head to cave west
+head north in the cave
+search the body 
+head south and use pickaxe iron 
+head east and use pickaxe person to obtain the saw
+use saw tree to get some wood
+head north then west and obtain Lit
+head east then east 
+use lit
+head north 
+use robe
+head east and use key
+game is finished
